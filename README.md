@@ -7,6 +7,8 @@ Google trends visualization and analysis using pytrends API.
 (2) Compare relative search interest ratio between 1st and 2nd term.
 ![Figure_2](https://github.com/Wildreamz/Google-Trends/assets/47807195/f562936e-9d7c-4dc4-b8f7-413744b07b7c)
 
+(3) Save fetched Google Trends data as csv.
+
 Have fun:)
 
 # **License**
